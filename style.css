@@ -1,0 +1,169 @@
+body{
+    background: #800000;
+}
+
+.box-menu{
+    position: relative;
+    left: 350px;
+    top: 20px;
+
+    width: 600px;
+    height: 50px;
+    background: #F0E68C;
+    color: #0eacb2;
+    corder:2px dotted #fff;
+    border-radius:20px;
+
+    min-height: 3em;
+
+}
+
+.box-menu h3{
+    position: relative;
+    top: 10px;
+    left: 185px;
+    font-family: BZar;
+    src: url('http://example.com/fonts/BZar.eot');
+    font-size: 30px;
+    color: #151212;
+}
+.box-1{
+    position: relative;
+    top: 50px;
+    left: 100px;
+    width: 550px;
+    height: 500px;
+    background: #F0E68C;
+    color: #0873a1;
+    corder:2px dotted #fff;
+    border-radius:20px;
+
+}
+.box-1 img{
+    width: 400px;
+    height: 200px;
+    position: relative;
+    left: 65px;
+    top: 20px;
+    border-radius: 20px;
+
+}
+.box-1 h1{
+position: relative;
+    left: 65px;
+  color: #000000;
+    top: 30px;
+}
+.box-1 h2{
+    text-align: center;
+    position: relative;
+    color: #000000;
+    font-size: 20px;
+    top: 20px;
+}
+.box-2{
+    position: relative;
+   bottom: 450px;
+    left: 710px;
+    width: 550px;
+    height: 500px;
+    background: #F0E68C;
+    color: #158da2;
+    corder:2px dotted #fff;
+    border-radius:20px;
+
+}
+.box-2 img{
+    position: relative;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    left: 70px;
+    top: 20px;
+    border-radius: 20px;
+}
+.box-2 h1{
+position: relative;
+    left: 130px;
+  color: #000000;
+    top: 30px;
+}
+.box-2 h2 {
+    text-align: center;
+    position: relative;
+    color: #000000;
+    font-size: 20px;
+    left: 1px;
+    top: 30px;
+
+}
+.box-3{
+    position: relative;
+    top: 100px;
+
+    right: 611px;
+    width: 550px;
+    height: 500px;
+    background: #F0E68C;
+    color: #0873a1;
+    corder:2px dotted #fff;
+    border-radius:20px;
+
+}
+.box-3 img{
+  width: 400px;
+    height: 200px;
+    position: relative;
+    left: 65px;
+    top: 20px;
+    border-radius: 20px;
+}
+.box-4{
+    position: relative;
+    bottom: 410px;
+    left: 710px;
+    width: 550px;
+    height: 500px;
+    background: #F0E68C;
+    color: #158da2;
+    corder:2px dotted #fff;
+    border-radius:20px;
+
+}
+.box-3 h1{
+position: relative;
+    left: 10px;
+  color: #000000;
+    top: 40px;}
+.box-3 h2 {
+    text-align: center;
+    position: relative;
+    color: #000000;
+    font-size: 20px;
+    left: 1px;
+    top: 50px;}
+.box-4 img{
+    position: relative;
+    width: 400px;
+    height: 200px;
+      position: relative;
+    left: 65px;
+    top: 20px;
+    border-radius: 20px;
+}
+.box-4 h1{
+position: relative;
+    left: 150px;
+  color: #000000;
+    top: 30px;
+}
+.box-4
+
+h2 {
+    text-align: center;
+    position: relative;
+    color: #000000;
+    font-size: 20px;
+    left: 1px;
+    top: 50px;}
+
